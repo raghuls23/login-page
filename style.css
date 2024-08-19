@@ -40,16 +40,18 @@ label {
 input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: 1px solid #ccc;x
+    border-radius: 10px;
 }
 
 button {
-    width: 100%;
+    
+    width: 60%;
     padding: 10px;
+    margin-left: 70px;
     background-color: #007bff;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: #ffffff;
     font-size: 16px;
     cursor: pointer;
